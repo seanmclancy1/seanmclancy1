@@ -15,8 +15,9 @@
   
 
 
+  More about me:
+  
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with new ideas for homelabs!
 - 📫 How to reach me: sean.m.clancy1@gmail.com | 8473374903
 - ⚡ Fun fact: I'm a twin!
--->
