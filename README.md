@@ -15,7 +15,7 @@
   
 
 
-  More about me:
+<h2>More about me</h2>
   
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with new ideas for homelabs!
