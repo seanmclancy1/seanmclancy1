@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean!, <a href="https://www.linkedin.com/in/sean-clancy88/">Cybersecurity Professional</a>
+<h1>Hi, I'm Sean!, <a href="https://www.linkedin.com/in/sean-clancy88/">IT Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
