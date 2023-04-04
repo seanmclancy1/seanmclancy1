@@ -6,7 +6,23 @@
   
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Certifications</h2>
+  <h2>How To:</h2>
+
+  - Setup a Phone System on SkySwitch
+  
+  - Setup a Network with Ubiquiti Equipment
+  
+  - Setup a Ubiquiti NanoBeam (Point to Point)
+  
+  - Setup a Device on Unifi Cloud
+  
+  - Setup a Watchguard Firewall
+  
+  - Setup a User on Microsoft Office
+  
+  - Remove Blocked Traffic/Emails
+
+  <h2>Certifications</h2>
 
 - [CompTIA Security+](https://i.imgur.com/HcE7qDD.png)
 - [EC Council Certified Ethical Hacker](https://i.imgur.com/6kExIBB.png)
