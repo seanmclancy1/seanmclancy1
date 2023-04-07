@@ -4,7 +4,6 @@
 
   - [SIEM | Microsoft Sentinel Map with Live Cyber Attacks](https://github.com/seanmclancy1/SIEM-Walkthrough.git)
   
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
   <h2>How To:</h2>
 
