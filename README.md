@@ -11,7 +11,7 @@
   
   - Setup a Network with Ubiquiti Equipment
   
-  - Setup a Ubiquiti NanoBeam (Point to Point)
+  - [Setup a Ubiquiti NanoBeam (Point to Point)](https://github.com/seanmclancy1/Ubiquiti-NanoBeam-Setup.git)
   
   - Setup a Device on Unifi Cloud
   
