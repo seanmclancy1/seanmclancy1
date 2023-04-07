@@ -8,7 +8,7 @@
 
   <h2>How To:</h2>
 
-  - Setup a Phone System on SkySwitch (https://github.com/seanmclancy1/PhoneWalkThrough.git)
+  - [Setup a Phone System on SkySwitch](https://github.com/seanmclancy1/PhoneWalkThrough.git)
   
   - Setup a Network with Ubiquiti Equipment
   
