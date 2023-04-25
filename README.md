@@ -17,7 +17,7 @@
   
   - Setup a Watchguard Firewall (In progress)
   
-  - Setup a User on Microsoft Office (In progress)
+  - [Setup a User on Microsoft Office](https://github.com/seanmclancy1/Setup-a-User-on-Microsoft-Office.git)
   
   - Remove Blocked Traffic/Emails (In progress)
 
