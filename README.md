@@ -9,17 +9,17 @@
 
   - [Setup a Phone System on SkySwitch](https://github.com/seanmclancy1/PhoneWalkThrough.git)
   
-  - Setup a Network with Ubiquiti Equipment
-  
   - [Setup a Ubiquiti NanoBeam (Point to Point)](https://github.com/seanmclancy1/Ubiquiti-NanoBeam-Setup.git)
   
-  - Setup a Device on Unifi Cloud
+  - Setup a Network with Ubiquiti Equipment (In progress)
   
-  - Setup a Watchguard Firewall
+  - Setup a Device on Unifi Cloud (In progress)
   
-  - Setup a User on Microsoft Office
+  - Setup a Watchguard Firewall (In progress)
   
-  - Remove Blocked Traffic/Emails
+  - Setup a User on Microsoft Office (In progress)
+  
+  - Remove Blocked Traffic/Emails (In progress)
 
   <h2>Certifications</h2>
 
