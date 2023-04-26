@@ -19,7 +19,7 @@
   
   - [Setup a User on Microsoft Office](https://github.com/seanmclancy1/Setup-a-User-on-Microsoft-Office.git)
   
-  - Remove Blocked Traffic/Emails (In progress)
+  - [Remove Blocked Traffic/Emails on Microsoft Office](https://github.com/seanmclancy1/Remove-Blocked-Traffic-Emails-on-office-365.git)
 
   <h2>Certifications</h2>
 
