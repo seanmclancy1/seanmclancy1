@@ -13,9 +13,7 @@
   
   - [Setup a Network with Ubiquiti Equipment](https://github.com/seanmclancy1/Setup-a-Network-with-Ubiquiti-Equipment.git)
   
-  - Setup a Device on Unifi Cloud (In progress)
-  
-  - Setup a Watchguard Firewall (In progress)
+  - [Setup a Watchguard Firewall](https://github.com/seanmclancy1/Setup-a-Watchguard-Firewall.git) 
   
   - [Setup a User on Microsoft Office](https://github.com/seanmclancy1/Setup-a-User-on-Microsoft-Office.git)
   
